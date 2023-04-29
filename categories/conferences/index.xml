@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conferences on Website of Jane Doe</title>
+    <link>https://gormlai.github.io/categories/conferences/</link>
+    <description>Recent content in conferences on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Oct 2019 00:18:13 +0000</lastBuildDate><atom:link href="https://gormlai.github.io/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GameJam License</title>
+      <link>https://gormlai.github.io/blog/gamejamlicense/</link>
+      <pubDate>Tue, 29 Oct 2019 00:18:13 +0000</pubDate>
+      
+      <guid>https://gormlai.github.io/blog/gamejamlicense/</guid>
+      
+        <description>Today&amp;rsquo;s subject is a very human story, but the details of it might be a little dry.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

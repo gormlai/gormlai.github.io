@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flex on Website of Jane Doe</title>
+    <link>https://gormlai.github.io/tags/flex/</link>
+    <description>Recent content in flex on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Oct 2019 22:23:29 +0100</lastBuildDate><atom:link href="https://gormlai.github.io/tags/flex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metal shading language compiler</title>
+      <link>https://gormlai.github.io/blog/msl2glsl/</link>
+      <pubDate>Sat, 12 Oct 2019 22:23:29 +0100</pubDate>
+      
+      <guid>https://gormlai.github.io/blog/msl2glsl/</guid>
+      
+        <description>Background When I first met Johan, and he initially hired me to work on Fugl, before I became a partner on the game, he had the initial version running on iOS using Metal and MSL.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
