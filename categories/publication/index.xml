@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>publication on Website of Jane Doe</title>
+    <title>publication on Website of Gorm Lai</title>
     <link>https://gormlai.github.io/categories/publication/</link>
-    <description>Recent content in publication on Website of Jane Doe</description>
+    <description>Recent content in publication on Website of Gorm Lai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 29 Oct 2019 00:18:13 +0000</lastBuildDate><atom:link href="https://gormlai.github.io/categories/publication/index.xml" rel="self" type="application/rss+xml" />
